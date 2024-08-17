@@ -1,40 +1,15 @@
-# Welcome to Remix!
+# Project Start
 
-- 📖 [Remix docs](https://remix.run/docs)
+2024-08-13
 
-## Development
+# Discription
 
-Run the dev server:
+보여주고 싶은 것
 
-```shellscript
-npm run dev
-```
+## 핵심 가치
 
-## Deployment
+모양을 바꾸며 살아왔고 앞으로도 그럴 것이다
 
-First, build your app for production:
+## 주요 내용
 
-```sh
-npm run build
-```
-
-Then run the app in production mode:
-
-```sh
-npm start
-```
-
-Now you'll need to pick a host to deploy it to.
-
-### DIY
-
-If you're familiar with deploying Node applications, the built-in Remix app server is production-ready.
-
-Make sure to deploy the output of `npm run build`
-
-- `build/server`
-- `build/client`
-
-## Styling
-
-This template comes with [Tailwind CSS](https://tailwindcss.com/) already configured for a simple default starting experience. You can use whatever css framework you prefer. See the [Vite docs on css](https://vitejs.dev/guide/features.html#css) for more information.
+어떻게 살아왔고, 어떤 사람이고, 어떤 사람이 되고싶은지
