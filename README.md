@@ -4,12 +4,4 @@
 
 # Discription
 
-보여주고 싶은 것
-
-## 핵심 가치
-
-모양을 바꾸며 살아왔고 앞으로도 그럴 것이다
-
-## 주요 내용
-
-어떻게 살아왔고, 어떤 사람이고, 어떤 사람이 되고싶은지
+remix project starting template
